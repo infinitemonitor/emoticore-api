@@ -1,0 +1,9 @@
+{
+	"sql": {
+		"host": "localhost",
+		"user": "root",
+		"password": null,
+		"database": null
+	},
+	"ratelimit": 2000
+}
